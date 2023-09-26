@@ -13,6 +13,7 @@ To follow the quickstart, you also need:
 - Docker.
 - a recent version of the programming language prefer.
 <br />
+
 ## Commands:
 ### Compile:
 ```npm run get``` Import/update Terraform providers and modules (you should check-in this directory)
