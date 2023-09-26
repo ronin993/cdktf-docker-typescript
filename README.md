@@ -15,6 +15,7 @@ To follow the quickstart, you also need:
 <br />
 
 ## Commands:
+
 ### Compile:
 ```npm run get``` Import/update Terraform providers and modules (you should check-in this directory)
 
